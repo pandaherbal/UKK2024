@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#DBEFFF"
+    android:background="#D2FBD4"
     tools:context=".MainActivity">
 
     <TableRow
@@ -48,48 +48,60 @@
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="7"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/delapan"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="8"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/sembilan"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="9"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/bagi"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/oren"
             android:fontFamily="@font/baloo_thambi"
             android:text="/"
             android:textColor="@color/white"
             android:textSize="34sp"
+            android:textStyle="bold"
             app:iconTint="@color/white" />
     </TableRow>
 
@@ -102,48 +114,60 @@
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="4"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/lima"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="5"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/enam"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="6"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/kali"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/oren"
             android:fontFamily="@font/baloo_thambi"
             android:text="*"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
     </TableRow>
 
     <TableRow
@@ -155,48 +179,60 @@
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="1"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/dua"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="2"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/tiga"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="3"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/tambah"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/oren"
             android:fontFamily="@font/baloo_thambi"
             android:text="+"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
     </TableRow>
 
     <TableRow
@@ -208,48 +244,60 @@
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="."
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/nol"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="0"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/clear"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/biru"
             android:fontFamily="@font/baloo_thambi"
             android:text="C"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/kurang"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/oren"
             android:fontFamily="@font/baloo_thambi"
             android:text="-"
             android:textColor="@color/white"
-            android:textSize="34sp" />
+            android:textSize="34sp"
+            android:textStyle="bold" />
     </TableRow>
 
     <TableRow
@@ -261,23 +309,30 @@
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/oren"
+            android:fontFamily="@font/baloo_thambi"
             android:onClick="hapus"
             android:text="backspace"
             android:textColor="@color/white"
-            android:textSize="18sp" />
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/sama_dengan"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
             android:layout_width="0dp"
             android:layout_height="75dp"
+            android:layout_marginLeft="10px"
+            android:layout_marginRight="10px"
             android:layout_weight="1"
             android:backgroundTint="@color/oren"
             android:fontFamily="@font/baloo_thambi"
             android:text="="
             android:textColor="@color/white"
-            android:textSize="24sp" />
+            android:textSize="24sp"
+            android:textStyle="bold" />
     </TableRow>
 </TableLayout>
